@@ -5,3 +5,5 @@ The main data sources of SSKB includes the knowledge collected from software cro
 The following figure shows a fragment of our SSKB.
 
 ![Image text](./img-folder/knowledgebase.png)
+
+We use MySQL to store our SSKB. The database file is in the './data' folder.
